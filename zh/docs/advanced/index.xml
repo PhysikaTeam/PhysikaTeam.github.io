@@ -1,0 +1,102 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PhysIKA – 进阶学习</title>
+    <link>https://PhysikaTeam.github.io/zh/docs/advanced.html</link>
+    <description>Recent content in 进阶学习 on PhysIKA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://PhysikaTeam.github.io/zh/docs/advanced/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 粒子系统</title>
+      <link>https://PhysikaTeam.github.io/zh/docs/advanced/particle-system.html</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://PhysikaTeam.github.io/zh/docs/advanced/particle-system.html</guid>
+      <description>
+        
+        
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;我是个占位符&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;待完善&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 高度场</title>
+      <link>https://PhysikaTeam.github.io/zh/docs/advanced/height-field.html</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://PhysikaTeam.github.io/zh/docs/advanced/height-field.html</guid>
+      <description>
+        
+        
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;我是个占位符&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;待完善&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 刚体动力学</title>
+      <link>https://PhysikaTeam.github.io/zh/docs/advanced/rigid-body.html</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://PhysikaTeam.github.io/zh/docs/advanced/rigid-body.html</guid>
+      <description>
+        
+        
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;我是占位符&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;待完善&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 有限元</title>
+      <link>https://PhysikaTeam.github.io/zh/docs/advanced/finite-element.html</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://PhysikaTeam.github.io/zh/docs/advanced/finite-element.html</guid>
+      <description>
+        
+        
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;我是个占位符&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;待完善&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

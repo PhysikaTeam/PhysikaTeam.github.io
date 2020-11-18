@@ -1,0 +1,58 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PhysIKA – 初窥PhysIKA</title>
+    <link>https://PhysikaTeam.github.io/zh/docs/gettingstarted.html</link>
+    <description>Recent content in 初窥PhysIKA on PhysIKA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="https://PhysikaTeam.github.io/zh/docs/gettingstarted/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Linux用户安装</title>
+      <link>https://PhysikaTeam.github.io/zh/docs/gettingstarted/linux.html</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://PhysikaTeam.github.io/zh/docs/gettingstarted/linux.html</guid>
+      <description>
+        
+        
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;内容待完善&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Windows用户安装</title>
+      <link>https://PhysikaTeam.github.io/zh/docs/gettingstarted/windows.html</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://PhysikaTeam.github.io/zh/docs/gettingstarted/windows.html</guid>
+      <description>
+        
+        
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Windows 10 上安装PhysIKA&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;待完善&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
