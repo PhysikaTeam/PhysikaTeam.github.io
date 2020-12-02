@@ -64,7 +64,7 @@
   
   <url>
     <loc>https://PhysikaTeam.github.io/docs/architecture/nodes.html</loc>
-    <lastmod>2020-11-18T15:15:19+08:00</lastmod>
+    <lastmod>2020-11-19T15:40:45+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -94,7 +94,7 @@
   
   <url>
     <loc>https://PhysikaTeam.github.io/docs/architecture/modules.html</loc>
-    <lastmod>2020-11-18T15:15:19+08:00</lastmod>
+    <lastmod>2020-11-19T15:40:45+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -139,7 +139,7 @@
   
   <url>
     <loc>https://PhysikaTeam.github.io/docs/architecture/fields.html</loc>
-    <lastmod>2020-11-18T15:15:19+08:00</lastmod>
+    <lastmod>2020-11-19T15:40:45+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -408,21 +408,6 @@
   </url>
   
   <url>
-    <loc>https://PhysikaTeam.github.io/docs/reference/parameter-reference.html</loc>
-    <lastmod>2020-09-18T00:13:06+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://PhysikaTeam.github.io/zh/docs/reference/parameter-reference.html"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://PhysikaTeam.github.io/docs/reference/parameter-reference.html"
-                />
-  </url>
-  
-  <url>
     <loc>https://PhysikaTeam.github.io/docs/examples/fluids.html</loc>
     <lastmod>2020-09-19T21:57:00+08:00</lastmod>
     <xhtml:link
@@ -438,8 +423,23 @@
   </url>
   
   <url>
+    <loc>https://PhysikaTeam.github.io/docs/reference/parameter-reference.html</loc>
+    <lastmod>2020-09-18T00:13:06+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://PhysikaTeam.github.io/zh/docs/reference/parameter-reference.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://PhysikaTeam.github.io/docs/reference/parameter-reference.html"
+                />
+  </url>
+  
+  <url>
     <loc>https://PhysikaTeam.github.io/docs/gettingstarted/windows.html</loc>
-    <lastmod>2020-11-18T17:28:41+08:00</lastmod>
+    <lastmod>2020-11-28T16:29:25+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -479,6 +479,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://PhysikaTeam.github.io/community.html"
+                />
+  </url>
+  
+  <url>
+    <loc>https://PhysikaTeam.github.io/docs/contributing/physika-webset.html</loc>
+    <lastmod>2020-11-18T15:15:19+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://PhysikaTeam.github.io/zh/docs/contributing/physika-webset.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://PhysikaTeam.github.io/docs/contributing/physika-webset.html"
                 />
   </url>
   
@@ -524,21 +539,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://PhysikaTeam.github.io/updates.html"
-                />
-  </url>
-  
-  <url>
-    <loc>https://PhysikaTeam.github.io/docs/contributing/physika-webset.html</loc>
-    <lastmod>2020-11-18T15:15:19+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://PhysikaTeam.github.io/zh/docs/contributing/physika-webset.html"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://PhysikaTeam.github.io/docs/contributing/physika-webset.html"
                 />
   </url>
   
